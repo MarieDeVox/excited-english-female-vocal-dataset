@@ -1,0 +1,39 @@
+﻿### DATASET END-USER LICENSE AGREEMENT (EULA) – MEDICAL INTENT EDITION
+### LICENSOR / VENDOR: MARIE DEVOX
+
+#### Commercial Licensing Agreement: Micro-Expression Vocal Datasets
+
+This Legally Binding Agreement ("Agreement") is entered into by and between the purchasing entity ("Licensee") and the digital storefront distributor operating under the brand and trade name "MarieDevox" ("Licensor"). 
+
+By purchasing, downloading, or deploying any asset from our catalog classified as a **Micro-Expression Vocal Dataset**-including but not limited to themed single-word collections (e.g., *Excited / High-Energy UI Pack*, *Sleepy / Lo-Fi Casual Pack*, *Cyberpunk / Robotic Notification Pack*, *Frustrated / System Error Pack*, etc.) - Licensee explicitly agrees to the following commercial parameters and usage boundaries:
+
+
+#### 1. Grant of License & Allowed Usage
+
+Upon cleared payment, Licensor grants Licensee a perpetual, worldwide, non-exclusive, non-transferable license to utilize the audio waveforms and associated cryptographic metadata layers for:
+* **Embedded Software & UI/UX:** Integration into mobile games, operating system notifications, interactive reward panels, smart-home devices, and application interfaces.
+* **Acoustic Style-Prompting & R&D:** Localized machine learning fine-tuning, voice-cloning acoustic guidance prompts, and wake-word verification pipelines.
+* **Commercial Application Scales:** Valid for use within multi-tenant commercial software ecosystems, media productions, and digital products.
+
+#### 2. Strict Exclusions & IP Safeguards
+
+This license explicitly safeguards the core identity and vocal rights of the performer. 
+* **No Foundational Text-to-Speech (TTS) Models:** Licensee is strictly prohibited from utilizing these assets to train open-ended, multi-tenant foundational generative speech synthesis models capable of generating arbitrary text outputs. 
+* **No Resale or Sub-Licensing:** Licensee may not repackage, re-license, redistribute, or sell the raw audio waveforms or metadata sheets as independent training assets, sample libraries, or stock components.
+
+#### 3. Retained Ownership & Distribution Rights
+This agreement does not constitute a copyright buyout. 
+* Licensor retains full original master recording copyrights and ownership of the underlying acoustic models.
+* Licensor retains the unrestricted right to continue marketing, listing, and selling identical copies of the **Micro-Expression Vocal Dataset** line to third-party developers across all public and private marketplaces.
+
+#### 4. Limitation of Liability
+The assets are provided "as-is" without warranty of any kind. Licensor shall not be liable for any compliance issues, legal disputes, or software errors resulting from the deployment or model-training execution of these files within Licensee's third-party software architecture.
+
+This Dataset End-User License Agreement ("Agreement") is a legally binding contract between the individual or corporate entity purchasing access to these files ("Licensee") and the Licensor named above. By downloading, unzipping, accessing, or utilizing any audio files (.wav) or metadata (.csv/.json) contained within this package, Licensee agrees to be contractually bound by these terms.
+
+**IMPORTANT NOTICE:** This is a multi-tier framework document. The Licensee’s actual legal permissions are strictly limited only to the specific single Tier Variation purchased at checkout, as verified by the official payment storefront invoice (Payhip) and corresponding License Key.
+
+#### 5. TERMINATION & REMEDIES
+Any breach of the terms or deployment boundaries outlined in this Agreement instantly terminates the license granted herein. Upon termination, Licensee must immediately cease all commercial use, delete all local copies of the raw dataset, purge all associated audio files from their software repositories, and permanently destroy any pipeline configurations generated from this data.
+
+IN WITNESS WHEREOF, the digital acquisition of this package via Payhip establishes a binding execution of this contract between the Licensor and Licensee.
