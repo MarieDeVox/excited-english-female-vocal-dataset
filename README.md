@@ -41,7 +41,7 @@ This repository contains a limited sample selection for evaluation purposes. The
 
 **Licensing Restrictions:** This tier strictly prohibits the ingestion of this dataset into foundational, open-ended generative Large Language Models (LLMs), public text-to-speech (TTS) cloning platforms, or any consumer-facing voice replication engine capable of arbitrary text synthesis.
 
-> **Looking for Foundational Model Buyouts?** If your organization requires full intellectual property assignment, open-ended machine-learning foundation-model training, or a perpetual global generative AI voice-clone buyout, please contact us at **voicevendorco@gmail.com** to execute a custom enterprise procurement contract.
+> **Looking for Foundational Model Buyouts?** If your organization requires full intellectual property assignment, open-ended machine-learning foundation-model training, or a perpetual global generative AI voice-clone buyout, please contact us at **mariedevox@voicevendor.store** to execute a custom enterprise procurement contract.
 
 ---
 
